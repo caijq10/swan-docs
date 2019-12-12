@@ -40,7 +40,7 @@ sidebar: view_view
     </div>     
 </div>
 
-### **代码示例1 - 横向布局**：
+### **代码示例1 - 横向布局**
 
 <a href="swanide://fragment/8819fd543459539871829aea4398dfb01575275187354" title="在开发者工具中预览效果" target="_self">在开发者工具中预览效果</a>
 
@@ -61,7 +61,7 @@ sidebar: view_view
 </view>
 ```
 
-### **代码示例2 - 纵向布局**：
+### **代码示例2 - 纵向布局**
 
 <a href="swanide://fragment/5555234f798072194eb3018c329375601575275317320" title="在开发者工具中预览效果" target="_self">在开发者工具中预览效果</a>
 
